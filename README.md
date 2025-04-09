@@ -63,18 +63,30 @@ python main.py delete <task_id>
 
 task-manager-cli/
 ├── main.py
+
 ├── db.py
+
 ├── task.py
+
 ├── utils.py
+
 ├── commands/
+
 │   ├── add.py
+
 │   ├── list.py
+
 │   ├── complete.py
+
 │   └── delete.py
+
 ├── tasks.db (auto-generated)
+
 ├── screenshots/
 │   └── demo.png (optional)
+
 ├── LICENSE
+
 └── README.md
 
 🤝 Contributing
