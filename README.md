@@ -41,6 +41,7 @@ git clone https://github.com/likipreetham145/task-manager-cli.git
 cd task-manager-cli
 
 🚦 Usage
+
 ➕ Add a Task
 
 python main.py add "Buy groceries"
@@ -77,6 +78,7 @@ task-manager-cli/
 └── README.md
 
 🤝 Contributing
+
 Contributions are welcome! If you'd like to improve this project, follow these steps:
 
 1. Fork the repo
